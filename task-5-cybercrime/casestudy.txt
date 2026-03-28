@@ -1,0 +1,11 @@
+Title: Phishing Attack Case Study
+
+Phishing is a common type of cybercrime in which attackers try to trick individuals into revealing sensitive information such as passwords, OTPs, or bank details. This is usually done through fake emails, messages, or websites that appear to be legitimate.
+
+For example, a college student received a message claiming to be from their bank, stating that their account would be blocked unless they verified their details. The message contained a link that looked like the official bank website. Without realizing the risk, the student clicked the link and entered their login credentials and OTP.
+
+Within minutes, unauthorized transactions were made from the student’s account, resulting in financial loss. The attacker used the stolen information to access the account and transfer money.
+
+Phishing attacks often target students and individuals who may not be fully aware of such threats. These attacks can lead to financial loss, identity theft, and misuse of personal data.
+
+This case highlights the importance of being cautious while dealing with unknown links and messages online.
